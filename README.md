@@ -12,17 +12,17 @@ Les outils mis en oeuvre :
 
 Tout d'abord on ajoute l'assistant test unitaire :
 
-[!capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/AjouterAssistantTest.PNG)
+![Capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/AjouterAssistantTest.PNG)
 
 On obtient alors ceci dans l'explorateur de solution: 
 
-[!capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/ProjetTu.PNG)
+![Capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/ProjetTu.PNG)
 
 Le code de JeuTestU est déja écrit automatiquement en fonction des différentes méthodes de la classes Jeu.
 On modifie alors les retours des methodes :
 
-[!capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/TestC.PNG)
+![Capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/TestC.PNG)
 
 On obtient alors le tableau des résultats des tests : 
 
-[!capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/ResultatTest.PNG)
+![Capture.png](https://github.com/SamGdy/TestUnitaire/blob/master/Images/ResultatTest.PNG)
